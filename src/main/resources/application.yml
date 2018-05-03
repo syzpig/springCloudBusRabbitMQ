@@ -8,4 +8,4 @@ spring:
     username: syz  #rabbitMQ创建的用户信息
     password: syz
   application:
-    name: springCloudStreamRabbitMQ
+    name: springCloudBusRabbitMQ
